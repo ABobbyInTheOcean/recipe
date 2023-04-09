@@ -1,6 +1,6 @@
 Ingredients
-Whole chicken
+1 whole chicken
 3 cloves garlic
-fresh thyme
-lemon
+1 bundle fresh thyme
+1/2 lemon
 salt and pepper
