@@ -6,17 +6,17 @@ line 2 changed remotely
 last line changed locally
 ### This is a REMOTE change :O
 
-Ordered List
+**Ordered List**
 
-1. Whole Chicken
+1. **Whole Chicken**
 2. Lemon
 3. Thyme
 4. Garlic
 
 
-Unordered List
+*Unordered List*
 
-- Whole Chicken
+- *Whole Chicken*
 - Lemon
 - Thyme
 - Garlic
